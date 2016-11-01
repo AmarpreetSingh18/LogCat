@@ -1,0 +1,3 @@
+# LogCat
+Logcat is a command-line tool that dumps a log of system messages, including stack traces when the 
+device throws an error and messages that you have written from your app with the Log class.
